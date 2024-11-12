@@ -7,6 +7,7 @@
     <?php
     echo "Warna Ungu";
     echo "Warna Pink";
+    echo "Warna Biru";
     ?>
 </body>
 </html>
