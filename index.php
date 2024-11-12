@@ -5,7 +5,7 @@
 <body>
     <h1>Siti Rukmana</h1>
     <?php
-    echo "Burung";
+    echo "Warna Ungu";
     ?>
 </body>
 </html>
