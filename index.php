@@ -6,6 +6,7 @@
     <h1>Siti Rukmana</h1>
     <?php
     echo "Warna Ungu";
+    echo "Warna Pink";
     ?>
 </body>
 </html>
